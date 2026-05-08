@@ -1,4 +1,5 @@
 # hejamuni_financial
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+hejamuni financial flutter app
+>>>>>>> b00f754f6104f162d33a000343c13c2ec3b5ef6b
